@@ -1,15 +1,20 @@
 # 💜 Welcome 💜
+---
+## About Me 💙 
 
-## About Me
+- **Name:**       Lavender
+- **Pronouns:**   She/They
+- **Hobbies:**  Cyber Security, Red Teaming, Forensics
 
-- **Name:** Lavender
-- **Pronouns:** She/They
-- **Hobbies:** Cyber Security, Red Teaming, Forensics
+## HackTheBox 💚 
+
+- **Team:**     7h3B14ckKn1gh75 CTF Team
+- **Rank:**     Knight
+- **Team Rank:**    #7 World-Wide
+- **HTB Profile:** [Profile Link](https://app.hackthebox.com/profile/414033)
 
 
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css"/>
+![Hack The Box](http://www.hackthebox.eu/badge/image/414033)
+---
 
-[![Lavender's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lavender-exe)](https://github.com/Lavender-exe/github-readme-stats)
-![Lavender's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lavender-exe&show_icons=true&theme=onedark)
-
-<script src="https://www.hackthebox.eu/badge/414033"></script>
+![Lavender's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lavender-exe&show_icons=true&theme=cobalt) 
