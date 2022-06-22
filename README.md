@@ -10,7 +10,6 @@
 
 - **Team:**     7h3B14ckKn1gh75 CTF Team
 - **Rank:**     Knight
-- **Team Rank:**    #7 World-Wide
 - **HTB Profile:** [Profile Link](https://app.hackthebox.com/profile/414033)
 
 ![HTB Team](https://www.hackthebox.com/badge/team/image/3804)
