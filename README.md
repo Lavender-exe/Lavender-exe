@@ -2,8 +2,7 @@
 
 ## About Me 💙 
 
-- **Name:**       Lavender
-- **Pronouns:**   She/They
+- **Name:**     Lavender
 - **Hobbies:**  Cyber Security, Red Teaming, Forensics
 
 ## HackTheBox 💚 
