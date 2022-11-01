@@ -3,7 +3,7 @@
 ## About Me 💙 
 
 - **Name:**       Lavender
-- **Hobbies:**  Cyber Security, Red Teaming, Forensics
+- **Hobbies:**  Cyber Security, Purple Teaming, Forensics
 
 ## HackTheBox 💚 
 
