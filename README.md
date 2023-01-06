@@ -1,6 +1,6 @@
 # 💜 Welcome 💜
 
-## About Me 💙 💜
+## About Me 💜
 
 - **Name:**       Lavender
 - **Hobbies:**  Cyber Security, Purple Teaming, Forensics
@@ -14,7 +14,7 @@
 ![Hack The Box](http://www.hackthebox.eu/badge/image/414033)
 ---
 
-## TryHackMe 💚 
+## TryHackMe 💙 
 
 - **THM Profile:** [Profile Link](https://tryhackme.com/p/lavender09)
 
