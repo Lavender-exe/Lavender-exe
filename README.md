@@ -28,7 +28,7 @@
 
 - **THM Profile:** [Profile Link](https://tryhackme.com/p/lavender09)
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/lavender09.png)
+<p><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/lavender09.png" alt="TryHackMe profile badge"></p>
 
 ---
 
