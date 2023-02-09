@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Lavender</h1>
-<h3 align="center">A pentester and cyber security hobbyist</h3>
+<h3 align="center">A Pentester and Cyber Security Hobbyist</h3>
 
 - 🔭 I’m currently working on [Artemis - Simplified Enumeration Script](https://github.com/Lavender-exe/Artemis)
 
