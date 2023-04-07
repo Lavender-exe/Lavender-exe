@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Lavender</h1>
 <h3 align="center">A Pentester and Cyber Security Hobbyist</h3>
 
-- 🔭 I’m currently working on [Artemis - Simplified Enumeration Script](https://github.com/Lavender-exe/Artemis)
+- 🔭 I’m currently working on [Hades - Command & Control](https://github.com/Lavender-exe/Hades-C2)
 
 - 🌱 I’m currently learning **Red Team Tradecrafts, Malware Development, C# and Python C2 Development, Active Directory, and Automation**
 
