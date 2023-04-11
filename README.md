@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Red Team Tradecrafts, Malware Development, C# and Python C2 Development, Active Directory, and Automation**
 
 - 📝 I write blogs at [securescape.cc](https://securescape.cc) (WIP)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lavender-exe&label=Wanderers&color=7f0eb4&style=plastic" alt="lavender-exe" /> </p>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,8 +32,13 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavender-exe&show_icons=true&theme=cobalt&title_color=172fa6&text_color=1a0f71&bg_color=ffe0fb&cache_seconds=1800&locale=en" alt="lavender-exe" /></p>
+## Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavender-exe&theme=default" alt="lavender-exe" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavender-exe&show_icons=true&theme=cobalt&title_color=511e6c&text_color=4a0a5c&bg_color=e3dbff&cache_seconds=1800&locale=en&layout=compact" alt="lavender-exe" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavender-exe&label=Wanderers&color=7f0eb4&style=plastic" alt="lavender-exe" /> </p>
+<a>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lavender-exe&show_icons=true&theme=cobalt&title_color=172fa6&text_color=1a0f71&bg_color=ffe0fb&cache_seconds=1800&locale=en" alt="lavender-exe" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavender-exe&theme=default" alt="lavender-exe" />
+</a>
+![Snake animation](https://github.com/Lavender-exe/Lavender-exe/blob/output/github-contribution-grid-snake.svg)
+
