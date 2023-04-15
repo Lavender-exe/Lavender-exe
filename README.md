@@ -39,7 +39,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lavender-exe&show_icons=true&theme=cobalt&title_color=172fa6&text_color=1a0f71&bg_color=ffe0fb&cache_seconds=1800&locale=en" alt="lavender-exe" width="400px"/>
 </a>
 <a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavender-exe&theme=default" alt="lavender-exe" width="440px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavender-exe&theme=default" alt="lavender-exe" width="400px"/>
 </a>
 ![Snake animation](https://github.com/Lavender-exe/Lavender-exe/blob/output/github-contribution-grid-snake.svg)
 
