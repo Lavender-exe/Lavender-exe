@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Red Team Tradecrafts, Malware Development, C# and Python C2 Development, Active Directory, and Automation**
 
-- 📝 I write blogs at [securescape.cc](https://securescape.cc) (WIP)
+- 📝 I write blogs at [securescape.cc](https://blog.securescape.cc) (WIP)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lavender-exe&label=Wanderers&color=7f0eb4&style=plastic" alt="lavender-exe" /> </p>
 
 ---
