@@ -11,7 +11,7 @@
 ---
 
 ### Languages & Skills:
-![My Skills](https://skillicons.dev/icons?i=nim,python,c,cpp,cs,bash,flask,html,php,java,androidstudio,firebase,mysql,git,gradle,wordpress,figma,linux&perline=6)
+![My Skills](https://skillicons.dev/icons?i=rust,nim,python,c,cpp,cs,bash,flask,php,java,androidstudio,firebase,mysql,git,gradle,wordpress,figma,linux&perline=6)
 
 ---
 
@@ -40,5 +40,4 @@
 <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavender-exe&theme=default" alt="lavender-exe" width="400px"/>
 </a>
-![Snake animation](https://github.com/Lavender-exe/Lavender-exe/blob/output/github-contribution-grid-snake.svg)
 
