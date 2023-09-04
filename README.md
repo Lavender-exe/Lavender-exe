@@ -19,11 +19,11 @@
 
 ### HackTheBox 💚 
 
-- **Team:**     BLACKBIRDS
+- **Team:** [BLACKBIRDS](https://www.hackthebox.com/home/teams/profile/5577)
 - **HTB Profile:** [Profile Link](https://app.hackthebox.com/profile/414033)
 
-![Hack The Box](http://www.hackthebox.eu/badge/image/414033)
-
+![HackTheBox](http://www.hackthebox.eu/badge/image/414033)
+![HackTheBox Team](https://www.hackthebox.com/badge/team/image/5577)
 ---
 
 ### TryHackMe 💙 
