@@ -29,9 +29,14 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![SPLUNK](https://img.shields.io/badge/splunk-000000.svg?style=flat&logo=splunk&color=%23000000) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lavender-exe&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lavender-exe&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavender-exe&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+<p align="left">
+  <a href="/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Lavender-exe&theme=blueberry&show_icons=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lavender-exe&theme=blueberry&hide_border=true" />
+  </a>
+</p>
+<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lavender-exe&icon=7&color=8)](https://visitcount.itsvg.in)
