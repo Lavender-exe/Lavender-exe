@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢 Penetration Tester and Threat Intel Analyst<br>🔭 Destroying Active Directory<br>🌱 Learning About ICS/OT Security & Threat Hunting<br>📝 I write blogs at [securescape.cc](https://blog.securescape.cc)
+🏢 Red Team Operator<br>🔭 Destroying Active Directory<br>🌱 Learning About ICS/OT Security & Threat Hunting<br>📝 I write blogs at [securescape.cc](https://blog.securescape.cc)
 
 
 ## 🌐 Socials:
