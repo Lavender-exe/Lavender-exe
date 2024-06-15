@@ -5,22 +5,6 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/crow-academy) 
 
-### HackTheBox 💚 
-
-- **Team:** [BLACKBIRDS](https://www.hackthebox.com/home/teams/profile/5577)
-- **HTB Profile:** [Profile Link](https://app.hackthebox.com/profile/414033)
-
-![HackTheBox](http://www.hackthebox.eu/badge/image/414033)
-![HackTheBox Team](https://www.hackthebox.com/badge/team/image/5577)
-
----
-
-### TryHackMe 💙 
-
-- **THM Profile:** [Profile Link](https://tryhackme.com/p/lavender09)
-
-<p><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/lavender09.png" alt="TryHackMe profile badge"></p>
-
 # 💻 Tech Stack:
 ![C](https://camo.githubusercontent.com/223413d2884349e0f01e6bfcbee34ceb8757b9e18070977722d8c3bcde5b0c78/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46656d626f7920432d3635394244333f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d666666666666)
 
