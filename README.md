@@ -2,11 +2,7 @@
 
 ###
 
-<img align="right" height="231" src="https://media1.tenor.com/m/KjB82GH8Ea8AAAAd/witch-cat.gif"  />
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lavender-exe.Lavender-exe&left_color=indigo&right_color=lavender&left_text=Wanderers"  />
+<img align="right" height="145" src="https://media1.tenor.com/m/KjB82GH8Ea8AAAAd/witch-cat.gif"  />
 
 ###
 
@@ -14,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://discord.com/invite/W6Mb4pb8p8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
@@ -60,5 +56,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lavender-exe/Lavender-exe/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lavender-exe/Lavender-exe/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lavender-exe.Lavender-exe&left_color=indigo&right_color=lavender&left_text=Wanderers"  />
 
 ###
