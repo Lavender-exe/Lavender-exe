@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="145" src="https://media1.tenor.com/m/KjB82GH8Ea8AAAAd/witch-cat.gif"  />
-
-###
-
 <p align="left">🏢 Red Team Operator <br>🏭 OT Security Researcher<br>👩‍🏫 Course Engineer @ White Knight Labs</p>
 
 ###
@@ -14,6 +10,12 @@
   <a href="https://discord.com/invite/W6Mb4pb8p8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="425" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Faq0iqglb6nfa1.gif&f=1&nofb=1&ipt=de94f822f520fdee4f84261be357e6993a8d97eb092b6b8977dedfa89949ebd5"  />
 </div>
 
 ###
@@ -45,8 +47,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lavender-exe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Lavender-exe&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lavender-exe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Lavender-exe&theme=gitdimmed&column=7&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
