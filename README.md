@@ -8,6 +8,7 @@
 
 <div align="left">
   <a href="https://discord.com/invite/W6Mb4pb8p8" target="_blank">
+    <!-- Artist Credit: https://www.reddit.com/user/ribbitin/ -->
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
