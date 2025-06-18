@@ -2,13 +2,12 @@
 
 ###
 
-<p align="left">🏢 Red Team Operator <br>🏭 OT Security Researcher<br>👩‍🏫 Course Engineer @ White Knight Labs</p>
+<h4 align="left">🏢 Red Team Operator <br>🏭 OT Security Researcher<br>👩‍🏫 Course Engineer @ White Knight Labs<br>🛠 Offensive Development & Automation</h4>
 
 ###
 
 <div align="left">
   <a href="https://discord.com/invite/W6Mb4pb8p8" target="_blank">
-    <!-- Artist Credit: https://www.reddit.com/user/ribbitin/ -->
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
@@ -22,8 +21,6 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
@@ -37,8 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
