@@ -8,15 +8,16 @@
 
 <div align="left">
   <a href="https://discord.com/invite/W6Mb4pb8p8" target="_blank">
-    <!-- Artist Credit: https://www.reddit.com/user/ribbitin/ -->
+
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
 ###
 
+<!-- Artist Credit: https://www.reddit.com/user/ribbitin/ -->
 <div align="center">
-  <img height="425" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Faq0iqglb6nfa1.gif&f=1&nofb=1&ipt=de94f822f520fdee4f84261be357e6993a8d97eb092b6b8977dedfa89949ebd5"  />
+  <img style="width: 100%;" height="425" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Faq0iqglb6nfa1.gif&f=1&nofb=1&ipt=de94f822f520fdee4f84261be357e6993a8d97eb092b6b8977dedfa89949ebd5"  />
 </div>
 
 ###
