@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🏢 Red Team Operator <br>🏭 OT Security Researcher<br>👩‍🏫 Course Engineer @ White Knight Labs<br>🛠 Offensive Development & Automation</h4>
+<h4 align="left">🏢 Red Team Operator <br>🏭 OT Security Researcher<br>👩‍🏫 Course Engineer<br>🛠 Offensive Development & Automation</h4>
 
 ###
 
